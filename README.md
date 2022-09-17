@@ -1,5 +1,5 @@
 <div align="center">
-    <img max-width="100%" src=".github/captura.png" />
+    <img max-width="100%" src=".github/Captura.png" />
 </div>
 
 <h2 align="center">Rocketseat NLW - eSports</h2>
